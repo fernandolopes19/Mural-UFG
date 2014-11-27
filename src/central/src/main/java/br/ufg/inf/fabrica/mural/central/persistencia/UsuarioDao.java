@@ -6,10 +6,6 @@
 
 package br.ufg.inf.fabrica.mural.central.persistencia;
 
-/**
- *
- * @author maycon
- */
 public class UsuarioDao {
-    
+
 }
